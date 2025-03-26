@@ -1,4 +1,4 @@
-# Proyecto de paradigma POO
+<h1 align="center">Proyecto POO</h1>
 
 Este proyecto, desarrollado en **Java** utilizando el entorno **NetBeans**, es una simulación de un sistema escolar para la *Escuela de Informática Río Grande*. La aplicación está diseñada aplicando los principios del paradigma de programación orientada a objetos (POO) y se centra en el manejo de tres tipos de usuarios: **Maestro**, **Alumno** y **Tutor**. Cada uno de estos roles cuenta con características y funcionalidades específicas, permitiendo practicar conceptos fundamentales como herencia, encapsulamiento, clases abstractas, interfaces y métodos.
 
@@ -143,8 +143,6 @@ public class Alumno extends Usuario {
 - **`public void mostrarCalificacion()`**
   - **Funcionalidad:** Muestra la calificación del alumno en la consola.
   - **Importancia:** Permite verificar visualmente el rendimiento académico del alumno en la aplicación.
-
----
 
 ### Datos adicionales
 
@@ -315,8 +313,6 @@ public interface Perfil {
 - **Simulación de base de datos:** Aunque la aplicación utiliza colecciones en memoria, la estructura de los métodos CRUD es similar a la que se emplearía con una base de datos real, lo que facilita la escalabilidad del proyecto.
 - **Interacción usuario-programa:** La lectura desde consola y la validación de datos aseguran que la aplicación es interactiva y robusta ante entradas erróneas.
 
----
-
 En síntesis
 
 - El método `main` coordina la inicialización, visualización, interacción y manipulación de datos.
@@ -373,8 +369,6 @@ En síntesis
   - **Ventaja:**
     Proporciona una vista completa y relacionada de la información, integrando datos del tutor y del alumno bajo su supervisión.
 
----
-
 En síntesis
 
 - La clase `Tutor` combina la herencia de `Usuario` con una asociación directa a un objeto `Alumno`, facilitando el seguimiento académico.
@@ -427,7 +421,6 @@ En síntesis
   - **Implementación:** Al no ser un método abstracto en esta clase, proporciona una implementación por defecto que puede ser sobrescrita en las clases derivadas si se requiere personalizar la presentación de la información.
   - **Beneficio:** Permite una visualización homogénea y estandarizada del perfil de cualquier usuario, lo que es útil para depuración, informes o demostraciones.
 
----
 
 En síntesis:
 
@@ -436,3 +429,9 @@ En síntesis:
 - La implementación del método `mostrarPerfil()` establece un formato uniforme para la presentación de los datos, lo que se vuelve esencial al integrar y visualizar información de diferentes tipos de usuarios.
 
 Esta clase es fundamental para el proyecto, ya que define la estructura básica y el comportamiento que comparten todos los usuarios, garantizando un diseño coherente y fácil de mantener en el contexto de la programación orientada a objetos.
+
+---
+
+<p align="center">
+  <big><strong>✨¡Gracias por visitar este repositorio!✨</strong></big>
+</p> 
