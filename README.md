@@ -1,4 +1,10 @@
-<h1 align="center">Proyecto de POO</h1>💱
+<h1 align="center">Proyecto de POO</h1>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4e847674-04c9-4bb3-a99e-252b9caca9db" width="640" height="360" />
+  <img src="https://github.com/user-attachments/assets/dff38bf9-5aac-4dce-a343-6516a9e0a459" width="640" height="360" />
+  <img src="https://github.com/user-attachments/assets/aedf1f1b-1e07-4bb2-83df-0e37c1038a13"    width="640" height="360" />
+</div>
 
 Este proyecto se relaciona con un sistema escolar para la *Escuela de Informática Río Grande*, desarrollado en **Java** y donde utilicé el entorno **NetBeans**. La aplicación aplica los principios de la programación orientada a objetos (POO) para gestionar tres tipos de usuarios: **Maestro**, **Alumno** y **Tutor**.
 
